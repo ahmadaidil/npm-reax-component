@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "a boilerplate to create react component",
   "main": "lib/index.js",
+  "module": "lib/index.es.js",
   "repository": "https://github.com/ahmadaidil/npm-reax-component.git",
   "author": "Ahmad Aidil <ahmdaidil@gmail.com>",
   "license": "MIT",

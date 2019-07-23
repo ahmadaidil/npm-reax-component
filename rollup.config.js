@@ -7,7 +7,7 @@ import { terser } from 'rollup-plugin-terser'
 import pkg from './package.json'
 
 export default {
-  input: 'src/Select.js',
+  input: 'src/index.js',
   output: [
     {
       file: pkg.main,
